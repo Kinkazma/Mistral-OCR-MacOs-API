@@ -3,7 +3,7 @@
 **Version** : 1.0 — **Date** : 09 août 2025
 
 ## 1) Responsable du traitement
-Application macOS locale **MistralOCR_Desktop**.
+Application macOS locale **MistralOCR**.
 
 ## 2) Données traitées
 - Contenu des fichiers traités (images, PDF…)
