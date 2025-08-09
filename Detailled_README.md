@@ -70,16 +70,20 @@
 
 ## 3) Procédure d’installation
 ### Prérequis
+- **API Mistral**
+- **Une copie du dépot**
 - **macOS 14.0**+
 - **Xcode** (Mac App Store)
 
 ### Étapes
-1. Décompresser l’archive.
-2. Ouvrir `MistralOCR_Desktop.xcodeproj`.
-3. Configurer **Signing & Capabilities**.
-4. Sélectionner le schéma `MistralOCR_Desktop` et **Run**.
-5. Configurer les préférences.
-6. (Optionnel) **Archiver** pour distribuer.
+1. Décompresser l’archive du projet
+2. Décompresser l'archive du projet Xcode.
+3. Ouvrir `MistralOCR_Desktop.xcodeproj`.
+4. Configurer **Signing & Capabilities**.
+5. Sélectionner le schéma `MistralOCR` et `⌘B`.
+6. Si tout fonctionne allez dans : `Product` puis cliquez sur `Archive` (vos configurations seront conservées après export).
+8. Cliquez sur `Distribute App` ; `Custom` ; `Copy App` ; Enregistrez-la ; Déplacez là dans dossier `Applications`(facultatif).
+9. Configurer les préférences.
 
 ## 4) Dépannage rapide
 - **Raccourci global** : changer si conflit.
