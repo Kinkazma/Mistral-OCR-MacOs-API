@@ -8,7 +8,7 @@ Ouvrir `MistralOCR_Desktop.xcodeproj` dans Xcode, `⌘B`, puis `⌘R`, si tout f
 Cliquez sur 'Distribute App' ; 'Custom' ; 'Copy App' ; Enregistrez-la ; Déplacez là dans dossier 'Applications'
 'Profitez'
 
-Vous pouvez aussi aller voir le (ReadMe)[DetailledReadMe.md] détaillé.
+Vous pouvez aussi aller voir le [ReadMe](DetailledReadMe.md) détaillé.
 
 ## Configuration
 
