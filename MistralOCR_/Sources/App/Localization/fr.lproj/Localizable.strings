@@ -1,0 +1,39 @@
+"App.Title" = "MistralOCR Desktop";
+"Menu.ShowWindow" = "Afficher la fenêtre";
+"Menu.SignIn" = "Se connecter…";
+"Menu.Quit" = "Quitter";
+"Menu.Last3" = "Derniers 3 OCR";
+"Button.Send" = "Envoyer";
+"Sidebar.History" = "Historique";
+"Right.Settings" = "Réglages";
+"Settings.Model" = "Modèle OCR";
+"Settings.OutputFormat" = "Format de sortie";
+"Settings.IncludeImages" = "Inclure les images (base64)";
+"Settings.LaTeXMode" = "Formules";
+"Settings.ExportFolder" = "Dossier d’export";
+"Settings.Behaviors" = "Comportements par mode d’appel";
+"Alert.ClearHistory.Title" = "Effacer l’historique ?";
+"Alert.ClearHistory.Message" = "Cette action est irréversible.";
+"Alert.Cancel" = "Annuler";
+"Alert.Delete" = "Supprimer";
+
+/* Préférences : bouton pour tester la clé API */
+"Settings.TestKey" = "Tester";
+/* Préférences : libellé pour activer l'envoi immédiat lors du dépôt */
+"Settings.AutoSend" = "Envoyer dès dépôt";
+/* Alerte : impossible d’écrire dans le dossier d’export sélectionné */
+"Alert.CannotWrite" = "L’application n’a pas pu écrire dans ce dossier.";
+/* Barre d'outils de sélection multiple de l'historique */
+"History.CopySelected" = "Copier";
+"History.DeleteSelected" = "Supprimer";
+"History.SelectAll" = "Tout sélectionner";
+"History.ClearAll" = "Effacer l’historique";
+/* Menu contextuel des éléments de l'historique */
+"History.Copy" = "Copier";
+"History.RevealSource" = "Afficher dans le Finder";
+"History.RevealOCR" = "Révéler l’OCR dans le Finder";
+"History.CopyAsFile" = "Copier en tant que fichier";
+"History.Delete" = "Supprimer";
+/* Boîte de dialogue de confirmation pour effacer l'historique */
+"History.ClearConfirmTitle" = "Effacer l’historique ?";
+"History.ClearConfirmMessage" = "Cette action supprimera tous les résultats OCR.";

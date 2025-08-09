@@ -1,0 +1,39 @@
+"App.Title" = "MistralOCR Desktop";
+"Menu.ShowWindow" = "Show Window";
+"Menu.SignIn" = "Sign in…";
+"Menu.Quit" = "Quit";
+"Menu.Last3" = "Last 3 OCR";
+"Button.Send" = "Send";
+"Sidebar.History" = "History";
+"Right.Settings" = "Settings";
+"Settings.Model" = "OCR Model";
+"Settings.OutputFormat" = "Output format";
+"Settings.IncludeImages" = "Include images (base64)";
+"Settings.LaTeXMode" = "Equations";
+"Settings.ExportFolder" = "Export folder";
+"Settings.Behaviors" = "Behaviors per entry point";
+"Alert.ClearHistory.Title" = "Clear history?";
+"Alert.ClearHistory.Message" = "This action is irreversible.";
+
+/* Preferences: button to test the API key */
+"Settings.TestKey" = "Test";
+/* Preferences: toggle label for enabling automatic OCR when dropping files */
+"Settings.AutoSend" = "Send immediately on drop";
+/* Alert: cannot write to the selected export folder */
+"Alert.CannotWrite" = "The application could not write to this folder.";
+/* History multi‑selection toolbar labels */
+"History.CopySelected" = "Copy";
+"History.DeleteSelected" = "Delete";
+"History.SelectAll" = "Select all";
+"History.ClearAll" = "Clear history";
+/* History row context menu labels */
+"History.Copy" = "Copy";
+"History.RevealSource" = "Reveal original";
+"History.RevealOCR" = "Reveal OCR";
+"History.CopyAsFile" = "Copy as file";
+"History.Delete" = "Delete";
+/* Confirmation alert for clearing history */
+"History.ClearConfirmTitle" = "Clear history?";
+"History.ClearConfirmMessage" = "This action will remove all OCR results.";
+"Alert.Cancel" = "Cancel";
+"Alert.Delete" = "Delete";
