@@ -1,12 +1,14 @@
-# MistralOCR_Desktop
+# MistralOCR
 
 Projet macOS (SwiftUI + AppKit) avec barre de menus, Services, Share Extension, historique, conversion automatique des formats et client Mistral OCR.
 
 ## Build rapide
 
-Ouvrir `MistralOCR_Desktop.xcodeproj` dans Xcode, `⌘B`, puis `⌘R`, si tout fonctionne allez dans : 'Product' puis 'Archive'
+Ouvrir `MistralOCR_Desktop.xcodeproj` dans Xcode, `⌘B`, puis `⌘R`, si tout fonctionne allez dans : 'Product' puis cliquez sur 'Archive'.
 Cliquez sur 'Distribute App' ; 'Custom' ; 'Copy App' ; Enregistrez-la ; Déplacez là dans dossier 'Applications'
-'Enjoy'
+'Profitez'
+
+Vous pouvez aussi aller voir le (ReadMe)[DetailledReadMe.md] détaillé.
 
 ## Configuration
 
