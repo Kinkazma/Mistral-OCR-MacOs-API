@@ -2,7 +2,7 @@
 
 Projet macOS (SwiftUI + AppKit) avec barre de menus, Services, Share Extension, historique, conversion automatique des formats et client Mistral OCR.
 
-Pour plus d'informations sur Mistral OCR, allez voir leur page : `https://mistral.ai/news/mistral-ocr`
+Pour plus d'informations sur Mistral OCR, allez voir leur [page](https://mistral.ai/news/mistral-ocr) : `https://mistral.ai/news/mistral-ocr`
 
 ## Build rapide
 
